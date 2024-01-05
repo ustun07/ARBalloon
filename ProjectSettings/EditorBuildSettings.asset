@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Level_1.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/Level_2.unity
+    guid: 636ec712605d00c4aa9d6c360eabbecf
+  - enabled: 1
+    path: Assets/Scenes/Level_3.unity
+    guid: 1d4fde347859dd443bb8b9f8f085c68f
+  - enabled: 1
+    path: Assets/Scenes/Level_4.unity
+    guid: ff208a16866d14c4ea2f3a73f90ab438
+  - enabled: 1
+    path: Assets/Scenes/Level_5.unity
+    guid: 2c26cb5b8fb776645a4271b15a8e361a
+  - enabled: 1
+    path: Assets/Scenes/Level_6.unity
+    guid: 473a2f87610fb57488082c32afb117eb
+  - enabled: 1
+    path: Assets/Scenes/Level_7.unity
+    guid: 1790899c56d9cb84983c412cfa727421
+  - enabled: 1
+    path: Assets/Scenes/Level_8.unity
+    guid: c28d1da6630ec2d409c3507191447814
+  - enabled: 1
+    path: Assets/Scenes/Level_9.unity
+    guid: 8ddc332857935ed4ca4206ac547bc2b7
+  m_configObjects:
+    Unity.XR.WindowsMR.Settings: {fileID: 11400000, guid: 744b813df90924c169af73489b8325de,
+      type: 2}
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 89a6d18d3df8d3e4fa917b0f9a963bc0,
+      type: 2}
+    UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: de8a8e4f987434338a4b1062feb8d069,
+      type: 2}
+    com.unity.xr.arcore.PlayerSettings: {fileID: 11400000, guid: c2f7b8d7c0bff4d10874cbcf3f24af78,
+      type: 2}
+    com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: 2fd5a8dee5f1344b3b0bdc3c4aba5edc,
+      type: 2}
+    com.unity.xr.arkit.PlayerSettings: {fileID: 11400000, guid: b27ec7d82a91a48e69fd689ad6808e5e,
+      type: 2}
+    com.unity.xr.magicleap.magic_leap_settings: {fileID: 11400000, guid: 1eb95d77acb39444e8cf44313496a874,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 58f40b12bbc864f3c96c6505a9a1e1e3,
+      type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 6bb381a8ba31f114d9724357633b4625,
+      type: 2}
